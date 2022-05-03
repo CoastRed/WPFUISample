@@ -8,6 +8,10 @@
 
 **效果展示：**
 
+![加载](https://github.com/CoastRed/WPFUISample/blob/master/Image/DarkAdminPanel.gif?raw=true)
+
+![](https://github.com/CoastRed/WPFUISample/blob/master/Image/DarkAdminPanel.gif)
+
 ![Dark Admin Panel](Image/Dark Admin Panel.gif)
 
 **Nuget包说明：**
