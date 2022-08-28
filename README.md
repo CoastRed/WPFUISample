@@ -57,6 +57,8 @@
 
 **效果展示：**
 
+![加载](https://github.com/CoastRed/WPFUISample/blob/master/Image/Weather%20App.gif?raw=true)
+
 ![Weather App](Image/Weather App.gif)
 
 **技术要点：**
