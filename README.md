@@ -46,3 +46,19 @@
 - Live Chart 图表
 - Ellipses
 - FontAwesome nuget
+
+
+
+# Weather App
+
+**参考资料：**
+
+- 视频地址：https://www.youtube.com/watch?v=kvXbyCGObe4&ab_channel=C%23WPFUIAcademy
+
+**效果展示：**
+
+![Weather App](Image/Weather App.gif)
+
+**技术要点：**
+
+- 自定义控件
